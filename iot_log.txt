@@ -1,0 +1,4 @@
+[ОШИБКА] Строка 2: Temperature 150.0 out of bounds [-50, 50]
+[ОШИБКА] Строка 3: list index out of range
+[ОШИБКА] Строка 4: could not convert string to float: 'abc'
+[СТАТИСТИКА] Обработано: 4, Успешно: 1, Ошибок: 3
